@@ -16,44 +16,44 @@ Building practical web applications with clean interfaces, reliable backends, an
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development;React.js+%7C+Node.js+%7C+Express.js;Building+with+MySQL+and+REST+APIs;Learning%2C+Building%2C+Improving" alt="Animated introduction"/>
+<br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development;React.js+%7C+Node.js+%7C+Express.js;Building+with+MySQL+and+REST+APIs;Learning%2C+Building%2C+Improving" alt="Animated introduction"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:8957E5,100:58A6FF" width="90%" alt="Decorative divider"/>
+
+<br/><br/>
+
+### NAVIGATE
 
 <a href="#about-me">
-  <img src="https://img.shields.io/badge/01-ABOUT_ME-0D1117?style=for-the-badge&labelColor=161B22" alt="About Me"/>
+  <img src="https://img.shields.io/badge/About_Me-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="About Me"/>
 </a>
 <a href="#technical-skills">
-  <img src="https://img.shields.io/badge/02-TECH_STACK-0D1117?style=for-the-badge&labelColor=161B22" alt="Tech Stack"/>
+  <img src="https://img.shields.io/badge/Tech_Stack-161B22?style=for-the-badge&logo=code&logoColor=58A6FF" alt="Technical Skills"/>
 </a>
 <a href="#featured-project">
-  <img src="https://img.shields.io/badge/03-PROJECTS-0D1117?style=for-the-badge&labelColor=161B22" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Projects-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projects"/>
 </a>
 <a href="#education">
-  <img src="https://img.shields.io/badge/04-EDUCATION-0D1117?style=for-the-badge&labelColor=161B22" alt="Education"/>
+  <img src="https://img.shields.io/badge/Education-161B22?style=for-the-badge&logo=google-scholar&logoColor=58A6FF" alt="Education"/>
 </a>
 <a href="#github-overview">
-  <img src="https://img.shields.io/badge/05-GITHUB_STATS-0D1117?style=for-the-badge&labelColor=161B22" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/GitHub_Stats-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub Statistics"/>
 </a>
 <a href="#lets-connect">
-  <img src="https://img.shields.io/badge/06-CONTACT-0D1117?style=for-the-badge&labelColor=161B22" alt="Contact"/>
+  <img src="https://img.shields.io/badge/Contact-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Contact"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:8957E5,100:58A6FF" width="85%" alt="Divider"/>
-
 </div>
 
-
-
 ---
 
-
----
-
-
----
+<a id="about-me"></a>
 
 ## 👨‍💻 About Me
 
@@ -65,13 +65,15 @@ I enjoy turning ideas into working applications, building responsive user interf
 * 💻 Interested in full-stack development and software engineering.
 * ⚛️ Building applications with React.js, JavaScript, Node.js, and Express.js.
 * 🗄️ Working with MySQL and relational database design.
-* 🔐 Learning and implementing authentication with JWT and bcrypt.
+* 🔐 Implementing authentication with JWT and bcrypt.
 * 🧪 Testing APIs using Postman.
 * 🌱 Continuously improving my development and problem-solving skills.
 
-**My goal:** To build useful software, strengthen my technical skills, and grow as a full-stack developer.
+> **My goal:** To build useful software, strengthen my technical skills, and grow as a full-stack developer.
 
 ---
+
+<a id="technical-skills"></a>
 
 ## 🛠️ Technical Skills
 
@@ -89,8 +91,9 @@ I enjoy turning ideas into working applications, building responsive user interf
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/bcrypt-4A154B?style=for-the-badge" alt="bcrypt"/>
 </p>
 
 ### Database
@@ -104,13 +107,15 @@ I enjoy turning ideas into working applications, building responsive user interf
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-**Additional knowledge:** Python, bcrypt, JSON, and cloud fundamentals.
+**Additional knowledge:** Python, JSON, and cloud fundamentals.
 
 ---
+
+<a id="featured-project"></a>
 
 ## 🚀 Featured Project
 
@@ -120,7 +125,7 @@ A full-stack web application designed to simplify food ordering and canteen mana
 
 **Tech Stack:** React.js · JavaScript · Node.js · Express.js · MySQL · JWT · bcrypt
 
-**Key Features**
+#### Key Features
 
 * 👤 Student registration, login, and role-based access.
 * 🍔 Food menu browsing, search, and category filtering.
@@ -135,14 +140,20 @@ A full-stack web application designed to simplify food ordering and canteen mana
 <div align="center">
 
 <a href="https://github.com/JAYA-C7/Smart-Canteen-Ordering-App">
-  <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Smart Canteen Project"/>
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Canteen Project"/>
+</a>
+
+<a href="https://github.com/JAYA-C7/Smart-Canteen-Ordering-App/tree/main/screenshots">
+  <img src="https://img.shields.io/badge/VIEW_SCREENSHOTS-1F6FEB?style=for-the-badge&logo=googlephotos&logoColor=white" alt="View Project Screenshots"/>
 </a>
 
 </div>
 
-**What I practiced:** Full-stack application development, API integration, database relationships, authentication, role-based access, and version control with Git and GitHub.
+**What I practiced:** Full-stack application development, REST API integration, relational database design, authentication, role-based access, and version control with Git and GitHub.
 
 ---
+
+<a id="education"></a>
 
 ## 🎓 Education
 
@@ -151,6 +162,8 @@ A full-stack web application designed to simplify food ordering and canteen mana
 Sanskrithi School of Engineering
 
 ---
+
+<a id="github-overview"></a>
 
 ## 📈 GitHub Overview
 
@@ -163,7 +176,7 @@ Sanskrithi School of Engineering
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYA-C7&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=JAYA-C7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
@@ -171,15 +184,29 @@ Sanskrithi School of Engineering
 
 ---
 
+<a id="lets-connect"></a>
+
 ## 🤝 Let's Connect
 
 I'm interested in connecting with developers, collaborating on projects, and exploring opportunities to grow in software development.
 
 <div align="center">
 
-<a href="https://github.com/JAYA-C7">GitHub</a> • <a href="https://www.linkedin.com/in/jaya-prakash-ujjappagari">LinkedIn</a> • <a href="mailto:jayaujjappagari@gmail.com">Email</a>
+<a href="https://github.com/JAYA-C7">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/jaya-prakash-ujjappagari">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jayaujjappagari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-### 💡 Learn. Build. Improve. Repeat.
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:8957E5,100:58A6FF" width="70%" alt="Decorative divider"/>
+
+### Learn. Build. Improve. Repeat.
 
 *Thanks for visiting my profile!*
 

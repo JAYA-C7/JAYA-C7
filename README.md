@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Jaya Prakash
 
-### Full-Stack Developer | React.js | Node.js | MySQL
+### Full-Stack Developer | MERN Stack | React.js · Express.js · Node.js · MySQL
+
 
 Building practical web applications with clean interfaces, reliable backends, and database-driven functionality.
 
@@ -26,7 +27,7 @@ Building practical web applications with clean interfaces, reliable backends, an
 
 <br/><br/>
 
-### NAVIGATE
+
 
 <a href="#about-me">
   <img src="https://img.shields.io/badge/About_Me-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="About Me"/>

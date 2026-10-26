@@ -21,14 +21,31 @@ Building practical web applications with clean interfaces, reliable backends, an
 </div>
 <div align="center">
 
-<a href="#about-me">ABOUT</a>
-  •   <a href="#technical-skills">TECHNOLOGIES</a>
-  •   <a href="#featured-project">PROJECTS</a>
-  •   <a href="#education">EDUCATION</a>
-  •   <a href="#github-overview">GITHUB STATS</a>
-  •   <a href="#lets-connect">CONTACT</a>
+<a href="#about-me">
+  <img src="https://img.shields.io/badge/ABOUT%20ME-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="About Me"/>
+</a>
+<a href="#technical-skills">
+  <img src="https://img.shields.io/badge/TECH%20STACK-161B22?style=for-the-badge&logo=codeforces&logoColor=58A6FF" alt="Tech Stack"/>
+</a>
+<a href="#featured-project">
+  <img src="https://img.shields.io/badge/PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projects"/>
+</a>
+<a href="#education">
+  <img src="https://img.shields.io/badge/EDUCATION-161B22?style=for-the-badge&logo=google-scholar&logoColor=58A6FF" alt="Education"/>
+</a>
+<a href="#github-overview">
+  <img src="https://img.shields.io/badge/GITHUB%20STATS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub Stats"/>
+</a>
+<a href="#lets-connect">
+  <img src="https://img.shields.io/badge/CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Contact"/>
+</a>
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=3" width="100%" alt="Section divider"/>
+</div>
+
 
 ---
 

@@ -18,33 +18,33 @@ Building practical web applications with clean interfaces, reliable backends, an
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development;React.js+%7C+Node.js+%7C+Express.js;Building+with+MySQL+and+REST+APIs;Learning%2C+Building%2C+Improving" alt="Animated introduction"/>
 
-</div>
 <div align="center">
 
 <a href="#about-me">
-  <img src="https://img.shields.io/badge/ABOUT%20ME-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="About Me"/>
+  <img src="https://img.shields.io/badge/01-ABOUT_ME-0D1117?style=for-the-badge&labelColor=161B22" alt="About Me"/>
 </a>
 <a href="#technical-skills">
-  <img src="https://img.shields.io/badge/TECH%20STACK-161B22?style=for-the-badge&logo=codeforces&logoColor=58A6FF" alt="Tech Stack"/>
+  <img src="https://img.shields.io/badge/02-TECH_STACK-0D1117?style=for-the-badge&labelColor=161B22" alt="Tech Stack"/>
 </a>
 <a href="#featured-project">
-  <img src="https://img.shields.io/badge/PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projects"/>
+  <img src="https://img.shields.io/badge/03-PROJECTS-0D1117?style=for-the-badge&labelColor=161B22" alt="Projects"/>
 </a>
 <a href="#education">
-  <img src="https://img.shields.io/badge/EDUCATION-161B22?style=for-the-badge&logo=google-scholar&logoColor=58A6FF" alt="Education"/>
+  <img src="https://img.shields.io/badge/04-EDUCATION-0D1117?style=for-the-badge&labelColor=161B22" alt="Education"/>
 </a>
 <a href="#github-overview">
-  <img src="https://img.shields.io/badge/GITHUB%20STATS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/05-GITHUB_STATS-0D1117?style=for-the-badge&labelColor=161B22" alt="GitHub Stats"/>
 </a>
 <a href="#lets-connect">
-  <img src="https://img.shields.io/badge/CONTACT-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Contact"/>
+  <img src="https://img.shields.io/badge/06-CONTACT-0D1117?style=for-the-badge&labelColor=161B22" alt="Contact"/>
 </a>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,50:8957E5,100:58A6FF" width="85%" alt="Divider"/>
+
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=3" width="100%" alt="Section divider"/>
-</div>
 
 
 ---

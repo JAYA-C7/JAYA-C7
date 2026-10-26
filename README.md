@@ -19,6 +19,21 @@ Building practical web applications with clean interfaces, reliable backends, an
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development;React.js+%7C+Node.js+%7C+Express.js;Building+with+MySQL+and+REST+APIs;Learning%2C+Building%2C+Improving" alt="Animated introduction"/>
 
 </div>
+<div align="center">
+
+### 🧭 NAVIGATION
+
+[👨‍💻 About Me](#-about-me) •
+[🛠️ Skills](#️-technical-skills) •
+[🚀 Projects](#-featured-project) •
+[🎓 Education](#-education) •
+[📊 GitHub Stats](#-github-overview) •
+[📫 Contact](#-lets-connect)
+
+</div>
+
+---
+
 
 ---
 

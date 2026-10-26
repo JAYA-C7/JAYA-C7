@@ -21,16 +21,17 @@ Building practical web applications with clean interfaces, reliable backends, an
 </div>
 <div align="center">
 
-### 🧭 NAVIGATION
-
-[👨‍💻 About Me](#-about-me) •
-[🛠️ Skills](#️-technical-skills) •
-[🚀 Projects](#-featured-project) •
-[🎓 Education](#-education) •
-[📊 GitHub Stats](#-github-overview) •
-[📫 Contact](#-lets-connect)
+<a href="#about-me">ABOUT</a>
+  •   <a href="#technical-skills">TECHNOLOGIES</a>
+  •   <a href="#featured-project">PROJECTS</a>
+  •   <a href="#education">EDUCATION</a>
+  •   <a href="#github-overview">GITHUB STATS</a>
+  •   <a href="#lets-connect">CONTACT</a>
 
 </div>
+
+---
+
 
 ---
 
